@@ -1,1 +1,1 @@
-# assignment3finalproject
+My final project includes a Moss-Thorns Gallery of Art progressive web application including features such as parrallax, modals, and responsive images. My web application is configured to adapt to any mobile device including phones or tablets. This progressive web application is also configured with a manifest file, services workers and handling, offline functionality, push notifications, and data storage. Code for user authentication and comments is also included but not fully implemented. 
